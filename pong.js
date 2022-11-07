@@ -40,6 +40,7 @@ function keyDownHandler(e) {
         leftPressed = true;
     }
 }
+
 function keyUpHandler(e) {
     if(e.keyCode == 39) {
         rightPressed = false;
