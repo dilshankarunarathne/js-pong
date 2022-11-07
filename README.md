@@ -50,11 +50,11 @@ But now you will be able to see the changes you just made.
 
 ## Step 5 - Create a pull request
 
-1. Click on **Pull requests** tab. 
+1. Click on **Pull requests** tab.  
+![fork instructions](assets/md-img/9-fork.png)
 
-
-2. Click on **New pull request** button. 
-
+2. Click on **New pull request** button.  
+![fork instructions](assets/md-img/10-fork.png)
 
 still writing this doc... 😉
 
