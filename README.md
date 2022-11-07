@@ -25,7 +25,7 @@ Click on **Create fork** button.
 ## Step 3 - Edit the file
 
 1. Click on any file to edit it.  
-![fork instructions](assets/md-img/4-fork.png)
+![fork instructions](assets/md-img/4-edit.png)
   
 (I am editing the index.html file here for demonstration purposes)
 
