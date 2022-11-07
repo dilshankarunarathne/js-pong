@@ -46,6 +46,8 @@ And then click on **Commit changes** button.
 But now you will be able to see the changes you just made.
 ![fork instructions](assets/md-img/8-fork.png)
 
+3. Make all the changes you want to make for a specific improvement of the code before you move on to the next step.
+
 ## Step 5 - Create a pull request
 
 
