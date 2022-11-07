@@ -12,7 +12,7 @@ Log-in to your GitHub account.
 ## Step 2
 Fork this repository.  
 
-
+![fork instructions](assets/md-img/1-fork.png)
 
 still writing this doc... 😉
 
