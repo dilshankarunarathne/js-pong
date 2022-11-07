@@ -19,15 +19,15 @@ Fork this repository.
 ![fork instructions](assets/md-img/2-fork.png)  
 Click on **Create fork** button.
 
-3. You will be redirected to your forked repository.  
+3. You will be redirected to your forked repository.   
 ![fork instructions](assets/md-img/3-fork.png)
 
-4. Click on any file to edit it.
+4. Click on any file to edit it.  
 ![fork instructions](assets/md-img/4-fork.png)
   
 (I am editing the index.html file here for demonstration purposes)
 
-5. Make the changes you want to make.
+5. Click on **Edit this file** button.  
 ![fork instructions](assets/md-img/5-fork.png)
 
 
