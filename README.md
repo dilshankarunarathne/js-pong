@@ -16,7 +16,10 @@ Fork this repository.
 ![fork instructions](assets/md-img/1-fork.png)
 
 2. You will be redirected to your forked repository.  
-![fork instructions](assets/md-img/2-fork.png)
+![fork instructions](assets/md-img/2-fork.png)  
+Click on **Create fork** button.
+
+
 
 still writing this doc... 😉
 
