@@ -33,7 +33,7 @@ Click on **Create fork** button.
 ![fork instructions](assets/md-img/5-fork.png)
 
 3. Make the changes you want to make.  
-
+![fork instructions](assets/md-img/6-fork.png)
 
 4. 
 
