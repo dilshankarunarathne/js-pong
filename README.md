@@ -15,5 +15,8 @@ Fork this repository.
 1. Click on the Fork button on the top right corner of this page.  
 ![fork instructions](assets/md-img/1-fork.png)
 
+2. You will be redirected to your forked repository.  
+![fork instructions](assets/md-img/2-fork.png)
+
 still writing this doc... 😉
 
