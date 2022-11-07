@@ -20,6 +20,8 @@ Fork this repository.
 Click on **Create fork** button.
 
 3. You will be redirected to your forked repository.  
+![fork instructions](assets/md-img/3-fork.png)
+
 
 
 
