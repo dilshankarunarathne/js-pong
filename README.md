@@ -40,7 +40,7 @@ Click on **Create fork** button.
 1. Fill up the required information about the changes you just made.  
 This is important, so make sure to give a proper description.  
 And then click on **Commit changes** button.
-![fork instructions](assets/md-img/7-fork.png) 
+![fork instructions](assets/md-img/7-commit.png) 
 
 2. You will be redirected back to the file you just edited.  
 But now you will be able to see the changes you just made.
