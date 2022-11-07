@@ -56,5 +56,10 @@ But now you will be able to see the changes you just made.
 2. Click on **New pull request** button.  
 ![fork instructions](assets/md-img/10-fork.png)
 
+3. You will be redirected to the pull request page.  
+You will be able to see the changes you just made here.
+
+
+
 still writing this doc... 😉
 
