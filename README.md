@@ -54,14 +54,14 @@ But now you will be able to see the changes you just made.
 ![fork instructions](assets/md-img/9-pr.png)
 
 2. Click on **New pull request** button.  
-![fork instructions](assets/md-img/10-fork.png)
+![fork instructions](assets/md-img/10-pr.png)
 
 3. You will be redirected to the pull request page.  
 You will be able to see the changes you just made here.
-![fork instructions](assets/md-img/11-fork.png)
+![fork instructions](assets/md-img/11-pr.png)
 
 4. Click on **Create pull request** button.
-![fork instructions](assets/md-img/12-fork.png)
+![fork instructions](assets/md-img/12-pr.png)
 
 5. Add a title and description to your pull request.  
 The discription must provide a proper explanation of the changes you made. And the title should be short and precise. 
