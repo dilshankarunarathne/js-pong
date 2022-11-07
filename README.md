@@ -24,6 +24,9 @@ Click on **Create fork** button.
 
 4. Click on any file to edit it.  
 (I am editing the index.html file here for demonstration purposes)
+![fork instructions](assets/md-img/4-fork.png)
+
+
 
 
 still writing this doc... 😉
