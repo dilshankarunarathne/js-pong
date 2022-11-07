@@ -2,6 +2,9 @@
 
 Career guidance program of Faculty of Applied Science (2022-11-5).
 
+
+![v1 release](assets/v1.png)
+
 # Instructions for contributors...
 
 ## Step 1 - Sign in
