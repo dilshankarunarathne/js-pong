@@ -91,6 +91,7 @@ function drawPaddle() {
     ctx.fill();
     ctx.closePath();
 }
+
 function drawBricks() {
     for(c=0; c<brickColumnCount; c++) {
         for(r=0; r<brickRowCount; r++) {
