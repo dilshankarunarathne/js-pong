@@ -19,6 +19,8 @@ Fork this repository.
 ![fork instructions](assets/md-img/2-fork.png)  
 Click on **Create fork** button.
 
+3. You will be redirected to your forked repository.  
+
 
 
 still writing this doc... 😉
