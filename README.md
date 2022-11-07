@@ -10,6 +10,8 @@ Log-in to your GitHub account.
 (Skip this step if you're already logged-in)
 
 ## Step 2
-Fork this repository.
+Fork this repository.  
+
+
 
 still writing this doc... 😉
