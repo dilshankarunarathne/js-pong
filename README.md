@@ -22,11 +22,13 @@ Click on **Create fork** button.
 3. You will be redirected to your forked repository.  
 ![fork instructions](assets/md-img/3-fork.png)
 
-4. Click on any file to edit it.  
-(I am editing the index.html file here for demonstration purposes)
+4. Click on any file to edit it.
 ![fork instructions](assets/md-img/4-fork.png)
+  
+(I am editing the index.html file here for demonstration purposes)
 
-
+5. Make the changes you want to make.
+![fork instructions](assets/md-img/5-fork.png)
 
 
 still writing this doc... 😉
