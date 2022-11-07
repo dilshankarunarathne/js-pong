@@ -32,6 +32,9 @@ Click on **Create fork** button.
 2. Click on **Edit this file** button.  
 ![fork instructions](assets/md-img/5-fork.png)
 
+3. Make the changes you want to make.
+4. 
+
 
 still writing this doc... 😉
 
