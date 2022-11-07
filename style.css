@@ -15,6 +15,11 @@
     text-align: center;
 }
 
+@font-face { font-family: Ravie; src: url('fonts/RAVIE.TTF'); } 
+.pong {
+    
+}
+
 /*
 .canvas-container {
     border-style: solid;
