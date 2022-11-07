@@ -31,6 +31,7 @@ for(c=0; c<brickColumnCount; c++) {
 document.addEventListener("keydown", keyDownHandler, false);
 document.addEventListener("keyup", keyUpHandler, false);
 document.addEventListener("mousemove", mouseMoveHandler, false);
+
 function keyDownHandler(e) {
     if(e.keyCode == 39) {
         rightPressed = true;
