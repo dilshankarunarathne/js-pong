@@ -35,10 +35,13 @@ Click on **Create fork** button.
 3. Make the changes you want to make.  
 ![fork instructions](assets/md-img/6-fork.png)
 
-4. Fill up the required information about the changes you just made.  
+## Step 4 - Commit the changes
+
+1. Fill up the required information about the changes you just made.  
 This is important, so make sure to give a proper description.  
 And then click on **Commit changes** button.
 ![fork instructions](assets/md-img/7-fork.png) 
+
 
 
 still writing this doc... 😉
