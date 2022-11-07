@@ -2,3 +2,7 @@
     border-style: solid;
 }
 
+.canvas-container {
+    border-style: solid;
+    background-color: aqua;
+}
