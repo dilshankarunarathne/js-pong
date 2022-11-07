@@ -83,5 +83,8 @@ They may ask you to make some changes to your pull request. If so, you will have
 The maintainers may approve, comment or request changes to your pull request. 
 ![fork instructions](assets/md-img/16-fork.png)
 
+3. After all the changes are made, your pull request will be merged.  
+You will see that the status of your pull request has changed to **Merged**, and the **Merge pull request** button will be replaced by **Closed** button. 
+
 still writing this doc... 😉
 
