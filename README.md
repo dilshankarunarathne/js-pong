@@ -73,7 +73,7 @@ The discription must provide a proper explanation of the changes you made. And t
 ## Step 6 - Wait for the pull request to be merged
 
 1. Now you have successfully created a pull request.  
-![fork instructions](assets/md-img/15-fork.png)
+![fork instructions](assets/md-img/15-merge.png)
 
 The maintainers of the repository will review your pull request and merge it if it is found to be correct.  
 Be patient and wait for further instructions by the maintainers.  
