@@ -2,6 +2,7 @@
 
 Career guidance program of Faculty of Applied Science (2022-11-5).
 
+We, group 1 created a simple breakout game called **Pong!** using JavaScript.
 
 ![v1 release](assets/v1.png)
 
