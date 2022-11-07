@@ -79,5 +79,8 @@ The maintainers of the repository will review your pull request and merge it if 
 Be patient and wait for further instructions by the maintainers.  
 They may ask you to make some changes to your pull request. If so, you will have to make the changes and create a new pull request.
 
+2. You will be able to see the status of your pull request here.  
+The maintainers may approve, comment or request changes to your pull request. 
+
 still writing this doc... 😉
 
