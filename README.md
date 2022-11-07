@@ -70,6 +70,14 @@ The discription must provide a proper explanation of the changes you made. And t
 6. Click on **Create pull request** button.  
 ![fork instructions](assets/md-img/14-fork.png)
 
+## Step 6 - Wait for the pull request to be merged
+
+Now you have successfully created a pull request.  
+
+
+The maintainers of the repository will review your pull request and merge it if it is found to be correct.  
+Be patient and wait for further instructions by the maintainers.  
+They may ask you to make some changes to your pull request. If so, you will have to make the changes and create a new pull request.
 
 still writing this doc... 😉
 
