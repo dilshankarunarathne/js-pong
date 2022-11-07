@@ -87,5 +87,7 @@ The maintainers may approve, comment or request changes to your pull request.
 You will see that the status of your pull request has changed to **Merged**, and the **Merge pull request** button will be replaced by **Closed** button. 
 ![fork instructions](assets/md-img/17-fork.png)
 
-still writing this doc... 😉
+# Congratulations! You have successfully contributed to the project. 
+
+
 
