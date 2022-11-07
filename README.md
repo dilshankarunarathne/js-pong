@@ -30,10 +30,10 @@ Click on **Create fork** button.
 (I am editing the index.html file here for demonstration purposes)
 
 2. Click on **Edit this file** button.  
-![fork instructions](assets/md-img/5-fork.png)
+![fork instructions](assets/md-img/5-edit.png)
 
 3. Make the changes you want to make.  
-![fork instructions](assets/md-img/6-fork.png)
+![fork instructions](assets/md-img/6-edit.png)
 
 ## Step 4 - Commit the changes
 
