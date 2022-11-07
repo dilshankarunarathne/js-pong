@@ -1,5 +1,3 @@
-# Career Guidance Programme
-
-## Group 1 Project
+# Career Guidance Programme - Group 1 Project
 
 
