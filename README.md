@@ -61,6 +61,7 @@ You will be able to see the changes you just made here.
 ![fork instructions](assets/md-img/11-fork.png)
 
 4. Click on **Create pull request** button.
+![fork instructions](assets/md-img/12-fork.png)
 
 
 still writing this doc... 😉
