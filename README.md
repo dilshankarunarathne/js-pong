@@ -22,7 +22,8 @@ Click on **Create fork** button.
 3. You will be redirected to your forked repository.  
 ![fork instructions](assets/md-img/3-fork.png)
 
-
+4. Click on any file to edit it.  
+(I am editing the index.html file here for demonstration purposes)
 
 
 still writing this doc... 😉
