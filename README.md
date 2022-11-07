@@ -44,7 +44,7 @@ And then click on **Commit changes** button.
 
 2. You will be redirected back to the file you just edited.  
 But now you will be able to see the changes you just made.
-![fork instructions](assets/md-img/8-fork.png)
+![fork instructions](assets/md-img/8-refactored.png)
 
 3. Make all the changes you want to make for a specific improvement of the code before you move on to the next step.
 
