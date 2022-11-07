@@ -17,7 +17,7 @@
 
 @font-face { font-family: Ravie; src: url('fonts/RAVIE.TTF'); } 
 .pong {
-    
+    font-family: Ravie;
 }
 
 /*
