@@ -65,7 +65,7 @@ You will be able to see the changes you just made here.
 
 5. Add a title and description to your pull request.  
 The discription must provide a proper explanation of the changes you made. And the title should be short and precise. 
-![fork instructions](assets/md-img/13-fork.png)
+![fork instructions](assets/md-img/13-pr.png)
 
 6. Click on **Create pull request** button.  
 ![fork instructions](assets/md-img/14-fork.png)
