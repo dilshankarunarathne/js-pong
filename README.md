@@ -50,6 +50,10 @@ But now you will be able to see the changes you just made.
 
 ## Step 5 - Create a pull request
 
+1. Click on **Pull requests** tab. 
+
+
+2. Click on **New pull request** button. 
 
 
 still writing this doc... 😉
