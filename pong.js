@@ -121,6 +121,7 @@ function drawLives() {
     ctx.fillStyle = "#0095DD";
     ctx.fillText("Lives: "+lives, canvas.width-65, 20);
 }
+
 function draw() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     drawBricks();
