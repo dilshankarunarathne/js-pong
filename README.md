@@ -68,7 +68,7 @@ The discription must provide a proper explanation of the changes you made. And t
 ![fork instructions](assets/md-img/13-pr.png)
 
 6. Click on **Create pull request** button.  
-![fork instructions](assets/md-img/14-fork.png)
+![fork instructions](assets/md-img/14-pr.png)
 
 ## Step 6 - Wait for the pull request to be merged
 
