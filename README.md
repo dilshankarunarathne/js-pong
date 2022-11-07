@@ -8,6 +8,7 @@ Career guidance program of Faculty of Applied Science (2022-11-5).
 Log-in to your GitHub account.  
 [Click Here to Sign-in](https://github.com/login)
 
-2. Fork this repository.
+## Step 2
+Fork this repository.
 
 still writing this doc... 😉
