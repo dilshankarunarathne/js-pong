@@ -42,7 +42,9 @@ This is important, so make sure to give a proper description.
 And then click on **Commit changes** button.
 ![fork instructions](assets/md-img/7-fork.png) 
 
-
+2. You will be redirected back to the file you just edited.  
+But now you will be able to see the changes you just made.
+![fork instructions](assets/md-img/8-fork.png)
 
 still writing this doc... 😉
 
