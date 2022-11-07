@@ -68,7 +68,7 @@ The discription must provide a proper explanation of the changes you made. And t
 ![fork instructions](assets/md-img/13-fork.png)
 
 6. Click on **Create pull request** button.  
-7. 
+![fork instructions](assets/md-img/14-fork.png)
 
 
 still writing this doc... 😉
